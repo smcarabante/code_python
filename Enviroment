@@ -1,0 +1,2 @@
+python -m venv mientorno
+.\mientorno\Scripts\activate
